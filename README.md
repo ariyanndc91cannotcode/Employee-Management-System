@@ -66,17 +66,17 @@ User has to enter the employee id in order to delete information from the system
 
 # Screen Shot
 
-1.Initial Page
+##Initial Page
 ![Initial page](https://github.com/ariyanndc91cannotcode/Employee-Management-System/blob/main/1.png)
-2.Login Page
+##Login Page
 ![Login page](https://github.com/ariyanndc91cannotcode/Employee-Management-System/blob/main/2.png)
-3.Home Page
+##Home Page
 ![Home page](https://github.com/ariyanndc91cannotcode/Employee-Management-System/blob/main/3.png)
-4.AddEmployee Page
+##AddEmployee Page
 ![AddEmployee page](https://github.com/ariyanndc91cannotcode/Employee-Management-System/blob/main/4.png)
-5.ViewEmployee Page
+##ViewEmployee Page
 ![ViewEmployee page](https://github.com/ariyanndc91cannotcode/Employee-Management-System/blob/main/5%20.png)
-6.RemoveEmployee Page
+##RemoveEmployee Page
 ![RemoveEmployee page](https://github.com/ariyanndc91cannotcode/Employee-Management-System/blob/main/6.png)
 
 
