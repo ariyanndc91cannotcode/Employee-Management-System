@@ -39,24 +39,21 @@ change their details.
 # Description
 
 ## Splash class
-This is the first class of this system where user have to enter the required button (click here to continue) to have access for the login page.
+This is the first class of this system where user have to click the required button (click here to continue) to have access for the login page.
 ## Login class
-This is the login class of this system where user have to enter the required credentials such as user name and password to have access for the main dashboard.
+In the login class of this system where user have to enter the required credentials such as user name and password to have access for the main dashboard.
 
 ## Home class
-After login in, user is directed to the main dashboard of this system where user can perform various operations like add new employee , view employee ,update employee, remove employee .
+After login, user is directed to the main dashboard of this system where user can perform various operations like add new employee , view employee ,update employee, remove employee .
 
 ## Connection class
-This class contains the connection between all the necessary classes
+This class contains the username and password to access the main dashboard and this is connected to the login class.
 
 ## AddEmployee class
-Here user have to enter all the required credentials to add a new employee to the system.
-
-## UpdateEmployee class
-In order to update employee information, the user have to enter employee ID.Then he/she can update information.
+Here user can add employee details by entering all the required credentials to add a new employee to the system.
 
 ## ViewEmployee class
-In order to view employee information, the user have to enter employee ID.Then he/she can view all the information of this system.
+In order to view specific employee information, the user have to enter employee ID.Then he/she can view all the information of this system.
 
 ## RemoveEmployee class
 User has to enter the employee id in order to delete information from the system. 
